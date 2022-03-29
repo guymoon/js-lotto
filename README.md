@@ -4,6 +4,12 @@
 <h2 align="middle">행운의 로또 - 조기문 </h2>
 <p align="middle">자바스크립트로 구현 하는 로또 어플리케이션 </p>
 
+# 데모 페이지
+[바로가기](https://guymoon.github.io/js-lotto/)
+
+# 웹 VS코드 환경
+[바로가기](https://github.dev/guymoon/js-lotto/tree/guymoon-step3)
+
 # 주안점
 - MV* 패턴 적용하기.
   - 이번에 공부하고 처음 적용해봐 MVC인지 MVP인지 약간 모호하다
@@ -20,11 +26,6 @@
   - `Cypress.Commands` 기능을 이용해 테스트를 작성했다. 
   - 고민한 부분은 __어디까지 Commands에 들어가야하냐__ 였는데, 재남님의 리뷰를 보니 __테스트는 포함하지 않는 것이 좋다고 생각하신다고 한다__. 확실히 테스트까지 Command에 포함시켜버리면 테스트를 보기 더 어려울 것 같다.
 
-
-# 데모 페이지
-[바로가기](https://guymoon.github.io/js-lotto/)
-# 웹 VS코드 환경
-[바로가기](https://github.dev/guymoon/js-lotto/tree/guymoon-step3)
 
 # 요구 사항
 
